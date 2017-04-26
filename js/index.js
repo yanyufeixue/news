@@ -50,17 +50,17 @@ function cretaeHtml(hash){
 				<ul class="img-item">
     				<li>
     					<div>
-    						<img src="${jsonData.news.newsRecom.newsRoures[i].url}" alt="">
+    						<img src="${jsonData.news.newsRecom.newsRoures[i].url[0]}" alt="">
     					</div>
     				</li>
     				<li>
     					<div>
-    						<img src="${jsonData.news.newsRecom.newsRoures[i].url}" alt="">
+    						<img src="${jsonData.news.newsRecom.newsRoures[i].url[1]}" alt="">
     					</div>
     				</li>
     				<li>
     					<div>
-    						<img src="${jsonData.news.newsRecom.newsRoures[i].url}" alt="">
+    						<img src="${jsonData.news.newsRecom.newsRoures[i].url[2]}" alt="">
     					</div>
     				</li>
     			</ul>
@@ -81,17 +81,17 @@ function cretaeHtml(hash){
 				<ul class="img-item">
     				<li>
     					<div>
-    						<img src="${jsonData.news[hash].newsRoures[j].url}" alt="">
+    						<img src="${jsonData.news[hash].newsRoures[j].url[0]}" alt="">
     					</div>
     				</li>
     				<li>
     					<div>
-    						<img src="${jsonData.news[hash].newsRoures[j].url}" alt="">
+    						<img src="${jsonData.news[hash].newsRoures[j].url[1]}" alt="">
     					</div>
     				</li>
     				<li>
     					<div>
-    						<img src="${jsonData.news[hash].newsRoures[j].url}" alt="">
+    						<img src="${jsonData.news[hash].newsRoures[j].url[2]}" alt="">
     					</div>
     				</li>
     			</ul>

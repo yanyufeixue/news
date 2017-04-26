@@ -9,7 +9,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":3,
@@ -18,7 +18,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg2.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":4,
@@ -27,7 +27,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg3.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":5,
@@ -36,7 +36,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg4.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":6,
@@ -45,7 +45,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg5.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":7,
@@ -54,7 +54,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg6.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":8,
@@ -63,7 +63,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg7.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":9,
@@ -72,7 +72,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg8.jpg"
+					"url":["imgage/newsimg4.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				}
 			]
 		},
@@ -86,7 +86,7 @@
 					"newsFor":"央视新闻",
 					"newsComment":"105条评论",
 					"newsTime":"3小时前",
-					"url":"imgage/newsimg8.jpg"
+					"url":["imgage/newsimg.jpg","imgage/newsimg2.jpg","imgage/newsimg3.jpg"]
 				},
 				{
 					"newsId":11,
